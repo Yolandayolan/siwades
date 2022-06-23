@@ -161,7 +161,7 @@ box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
 
                             <!-- Header Link -->
                             <li class="hidden-xs animation-fadeInQuick">
-                                <a href="../pilihan.php"><strong>SELAMAT DATANG DI SISTEM INFORMASI WARGA DESA</strong></a>
+                                <a href="../pilihan.php"><strong>SELAMAT DATANG DI SISTEM INFORMASI WARGA DESA KUALU</strong></a>
                             </li>
                             <!-- END Header Link -->
                         </ul>
@@ -186,7 +186,7 @@ box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
                                 <div class="col-sm-6 hidden-xs">
                                     <div class="header-section">
                                         <ul class="breadcrumb breadcrumb-top">
-                                            <li><a href="../dashboard">SIWADES</a></li>
+                                            <li><a href="../dashboard">SIWADES KUALU</a></li>
                                             <li>PENDUDUK</li>
                                         </ul>
                                     </div>

@@ -141,7 +141,7 @@ $title = "DETAIL ".$judul['nama_klasifikasi']." || KLASIFIKASI || SIWADES";
 
                             <!-- Header Link -->
                             <li class="hidden-xs animation-fadeInQuick">
-                                <a href="../pilihan.php"><strong>SELAMAT DATANG DI SISTEM INFORMASI WARGA DESA</strong></a>
+                                <a href="../pilihan.php"><strong>SELAMAT DATANG DI SISTEM INFORMASI WARGA DESA KUALU</strong></a>
                             </li>
                             <!-- END Header Link -->
                         </ul>
@@ -166,7 +166,7 @@ $title = "DETAIL ".$judul['nama_klasifikasi']." || KLASIFIKASI || SIWADES";
                                 <div class="col-sm-6 hidden-xs">
                                     <div class="header-section">
                                         <ul class="breadcrumb breadcrumb-top">
-                                            <li><a href="../dashboard">SIWADES</a></li>
+                                            <li><a href="../dashboard">SIWADES KUALU</a></li>
                                             <li><a href="../pilihan.php?menu=3">KLASIFIKASI</a></li>
                                             <li>DETAIL</li>
                                         </ul>
